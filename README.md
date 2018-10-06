@@ -1,6 +1,6 @@
 # FSociety
 Submission for KJSCE Hackathon 2018 [ADHAAR ID]
-![picture](https://drive.google.com/open?id=1QQXzj645_iiGNQFV0rjMIx2OY3560ywk)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 
 ## KYChain
