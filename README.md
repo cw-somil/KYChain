@@ -16,7 +16,7 @@ Submission for KJSCE Hackathon 2018 [ADHAAR ID]
 * In such a sitituion the Blockchain acts as an immutable distributed ledger shared in the public domain. Every participant interacts with the blockchain using a public-private cryptographic key combination.
 
 ## Tech/ Framework Used
-###### Blockchain, Ethereum, Solidity, Smart Contract, React JS, Node JS
+#### Blockchain, Ethereum, Solidity, Smart Contract, React JS, Node JS
 
 ## Features
 * Whenever a user enters in the ecosystem , they will upload Government authorized documents for Proof of Identity and Proof of Address. Using OCR, the relevant information from the documents will be extracted. This information will be crosschecked by the user before it can be finally uploaded to the decentralized database system 'Blockchain'.
