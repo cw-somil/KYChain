@@ -39,3 +39,6 @@ Submission for KJSCE Hackathon 2018 [ADHAAR ID]
 ## Future Prospects:
 * BlockChain Based Voting System
   Use face recognition and public key of the user to recognize him before authenticating them to vote and store their vote accordingly in the decentralized system. It will help to achieve highest level of security with complete transparency therby allowing votes to be followed, counted, and correlated by many different sources while still maintaining the privacy of the voters due to the anonymous transactions along the blockchain.
+  
+## Note: 
+* There are some potential security vulnerabilities with the dependencies.
