@@ -18,7 +18,7 @@
     "ganache-cli": "^6.0.3",
     "mocha": "^4.1.0",
     "net": "^1.0.2",
-    "next": "^4.1.4",
+    "next": "^11.1.0",
     "next-routes": "^1.2.0",
     "popper.js": "^1.14.4",
     "prop-types": "^15.6.2",
